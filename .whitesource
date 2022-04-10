@@ -16,6 +16,8 @@
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
-    }
+    },
+    "enableRenovate": true,
+    "extends": ["github>renovatebot/spring-remediations"]
   }
 }
